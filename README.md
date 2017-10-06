@@ -1,6 +1,6 @@
-#Note Application
+# Note Application
 
-###This application is made for learning process.
+### This application is made for learning process.
 
 Main topics learnt through this project : 
 
